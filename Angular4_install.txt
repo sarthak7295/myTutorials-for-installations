@@ -1,0 +1,8 @@
+1. install node.js
+2. go to cmd  npm install -g @angular/cli      //this will install angular 4
+3. create your angular project folder
+4.their type in cmd: ng new projectname     
+5.install visual studio code(editor of angular or you can say java script)
+6.go to tht folder type :ng serve to compile and start webserver
+7.now you can check localhost:4200 to check your project ///default port
+   ng serve --host 0.0.0.0 –port 4205   //to change to desired port
