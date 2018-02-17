@@ -1,0 +1,14 @@
+1. create a repo in git
+2. navigate to a folder in which you want to clone your repo files (cd c:)
+3.(cofig : git config --global user.name "sart729"
+			git config --global.email sar.asd@yahoo.com
+			)
+4. then clone the repo : $git clone url_from_github
+5. ls is a command for seeing directory
+6. then create some files in the folder 
+7. see those files then type : $git add filename.extension
+8. $git status : see the newly added files which you can now commit
+9. git commit -m "message or some comments here" filename.txt
+10.  git push -u origin master   (to push)
+
+11.and we are done
